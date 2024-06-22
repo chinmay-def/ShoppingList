@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
                     println("Hi")
                     println("Change 4")
                     println("This line will be merged")
+                    println("Hello from friend")
                 }
             }
         }

@@ -37,6 +37,7 @@ class MainActivity : ComponentActivity() {
                         ShoppingList()
                     println("Hi")
                     println("Change 2")
+                    println("This line will be merged")
                 }
             }
         }

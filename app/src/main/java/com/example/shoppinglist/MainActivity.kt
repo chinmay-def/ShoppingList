@@ -35,6 +35,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                         ShoppingList()
+                    println("Hi")
                 }
             }
         }

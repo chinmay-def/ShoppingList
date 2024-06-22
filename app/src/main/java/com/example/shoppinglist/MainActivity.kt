@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                         ShoppingList()
                     println("Hi")
-                    println("Experimental")
+                    println("Change 2")
                 }
             }
         }
